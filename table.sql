@@ -1,0 +1,1 @@
+Create table abc(a varchar2(10),b date,c number);
